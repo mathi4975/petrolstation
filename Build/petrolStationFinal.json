@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "E370_GasStation",
+"productVersion": "0.1",
+"dataUrl": "petrolStationFinal.data.unityweb",
+"wasmCodeUrl": "petrolStationFinal.wasm.code.unityweb",
+"wasmFrameworkUrl": "petrolStationFinal.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
